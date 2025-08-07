@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f60fb51c485322107f4466f64d822a17" label="City" max_length="40" name="x_1234_travel_pl_0_city" type="collection">
+        <element label="City Name" max_length="40" name="city_name" type="string"/>
+        <element label="Country Name" max_length="40" name="country_name" type="string"/>
+        <element label="Country Code" max_length="40" name="country_code" type="string"/>
+        <element label="Region Code" max_length="40" name="region_code" type="string"/>
+        <element label="State Code" max_length="40" name="state_code" type="string"/>
+        <element label="City Code" max_length="40" name="city_code" type="string"/>
+    </element>
+</database>

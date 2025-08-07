@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1ca0029c485322107f4466f64d822ab2" label="Airport" max_length="40" name="x_1234_travel_pl_0_airport" type="collection">
+        <element label="IATA Code" max_length="40" name="iata_code" type="string"/>
+        <element label="Detailed Name" max_length="40" name="detailed_name" type="string"/>
+        <element label="ID" max_length="40" name="id" type="string"/>
+        <element label="Airport Name" max_length="40" name="airport_name" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5e9ce2172d4322107f4438131cf4db12" label="Travel Request" max_length="40" name="x_1234_travel_pl_0_travel_request" type="collection">
+        <element label="End Date" max_length="40" name="end_date" type="glide_date_time"/>
+        <element label="Start Date" max_length="40" name="start_date" type="glide_date_time"/>
+    </element>
+</database>
